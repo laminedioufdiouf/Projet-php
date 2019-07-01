@@ -1,0 +1,60 @@
+.titre{
+    text-align: center;
+    background-color: grey;
+    font-size: 20px;
+}
+
+.dim{
+    background-color: red;
+    text-align:center;
+    font-size: 18px;
+}
+
+body{
+    background-image:url(j.jpg);
+    background-repeat:repeat;
+  }
+  #nom3{
+    width:70%;
+  }
+  #inputEmail3{
+    width:70%;
+  }
+  #inputPassword2{
+    width:40%;
+  } 
+  #inputPassword3{
+    width:70%; 
+  }
+  #nom1,#email,#pass{
+    font-size:20px;
+    font-family:verdana;
+  
+  } 
+  #form1{
+    border:0px solid black;
+    width:80%;
+    margin-top:50px;
+    margin-left:140px;
+  }
+  #conn{
+    margin-left:450px;
+  }
+  h1{
+    font-size:80px;
+    color:white;
+  }
+  #t1 th{
+      font-size:15px;
+      color: black;
+  }
+  .rouge{
+            background-color:red;
+            text-align:center;
+             font-size: 18px;
+        }
+
+ .liste{
+          text-align:center;
+          font-size: 18px;
+ }

@@ -1,0 +1,13 @@
+Ordinateurs,500000,50,
+Nivéa,2000,100,
+jean,30000,150,
+chemise,15000,9,
+Pantalon,14500,100,
+Chaussures,25000,1000,
+lunettes,5000,7,
+Savon,55,155,8525,
+Savon,55,155,8525,
+Savon,100,600,60000,
+Parfum,30000,100,1308965
+Pomme,1000,100,100000
+goyave,41000,1,41000
